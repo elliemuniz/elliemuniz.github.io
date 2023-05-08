@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(240, 217, 124);
+}
+p{
+    font-family: fantasy;
+    font-size: small;
+    
+}
+.citation{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-small;
+    position: relative;
+    
+}
+
+#intro{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(235, 190, 9);
+}
+img{
+    height: 500px;
+    width: 40%;
+    position: relative; 
+    bottom: 20%;
+}
+
+.right{
+    position:relative;
+    left: 120px;
+}
